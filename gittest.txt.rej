@@ -1,0 +1,20 @@
+diff a/gittest.txt b/gittest.txt	(rejected hunks)
+@@ -0,0 +1,17 @@
++<!doctype html>
++<html>
++
++<head>
++    <meta charset="shift_jis">
++    <title>�e�X�g�y�[�W</title>
++</head>
++
++<body>
++    <div>
++        <p>
++            �R���e���c
++        </p>
++    </div>
++</body>
++
++</html>
+\ No newline at end of file
